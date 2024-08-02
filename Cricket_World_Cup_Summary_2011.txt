@@ -1,0 +1,32 @@
+World Cup 2011 Summary:
+Total Runs Scored by Each Team:
+AUS: 1441.0
+BAN: 1017.0
+CAN: 1054.0
+ENG: 1829.0
+IND: 2477.0
+IRE: 1393.0
+KEN: 932.0
+NED: 1182.0
+NZ: 1695.0
+PAK: 1656.0
+SA: 1767.0
+SL: 2061.0
+WI: 1411.0
+ZIM: 1278.0
+
+Total Wickets Taken by Each Team:
+AUS: 47.0
+BAN: 43.0
+CAN: 45.0
+ENG: 51.0
+IND: 71.0
+IRE: 50.0
+KEN: 25.0
+NED: 30.0
+NZ: 66.0
+PAK: 72.0
+SA: 68.0
+SL: 67.0
+WI: 53.0
+ZIM: 35.0

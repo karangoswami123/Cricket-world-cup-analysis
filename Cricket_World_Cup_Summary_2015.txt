@@ -1,0 +1,32 @@
+World Cup 2015 Summary:
+Total Runs Scored by Each Team:
+AFG: 162
+AUS: 342
+BAN: 267
+ENG: 231
+IND: 300
+IRE: 307
+NZ: 331
+PAK: 224
+SA: 339
+SCO: 142
+SL: 233
+UAE: 285
+WI: 304
+ZIM: 277
+
+Total Wickets Taken by Each Team:
+AFG: 10
+AUS: 1
+BAN: 10
+ENG: 9
+IND: 10
+IRE: 7
+NZ: 10
+PAK: 7
+SA: 10
+SCO: 7
+SL: 6
+UAE: 6
+WI: 6
+ZIM: 4

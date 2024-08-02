@@ -1,0 +1,32 @@
+World Cup 1983 Summary:
+Total Runs Scored by Each Team:
+AUS: 310.0
+BAN: 120.0
+CAN: 180.0
+ENG: 0.0
+IND: 204.0
+KEN: 140.0
+NAM: 104.0
+NED: 136.0
+NZ: 225.0
+PAK: 228.0
+SA: 278.0
+SL: 272.0
+WI: 278.0
+ZIM: 340.0
+
+Total Wickets Taken by Each Team:
+AUS: 10.0
+BAN: 10.0
+CAN: 10.0
+ENG: 0.0
+IND: 10.0
+KEN: 0.0
+NAM: 2.0
+NED: 10.0
+NZ: 7.0
+PAK: 8.0
+SA: 9.0
+SL: 10.0
+WI: 9.0
+ZIM: 5.0

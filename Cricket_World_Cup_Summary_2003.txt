@@ -1,0 +1,32 @@
+World Cup 2003 Summary:
+Total Runs Scored by Each Team:
+AUS: 2641.0
+BAN: 735.0
+CAN: 947.0
+ENG: 1034.0
+IND: 2593.0
+KEN: 1582.0
+NAM: 830.0
+NED: 1072.0
+NZ: 1602.0
+PAK: 1143.0
+SA: 1318.0
+SL: 1799.0
+WI: 1173.0
+ZIM: 1626.0
+
+Total Wickets Taken by Each Team:
+AUS: 102.0
+BAN: 20.0
+CAN: 33.0
+ENG: 45.0
+IND: 86.0
+KEN: 60.0
+NAM: 33.0
+NED: 43.0
+NZ: 59.0
+PAK: 40.0
+SA: 44.0
+SL: 82.0
+WI: 42.0
+ZIM: 36.0
